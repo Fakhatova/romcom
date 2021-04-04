@@ -16,6 +16,7 @@ RomCom is a an application where users can generate random covers, titles, and t
 -   When the user clicks the   **Save Cover**  button the current cover is added to the saved covers section.
 -   If the user  clicks the   **Save Cover**  button more than once on a single cover, it will still only be saved once (no duplicates).
 -   When the user clicks the   **Showed Saved Covers** button the saved covers section is displayed.
+- From the saved covers view, if a user double clicks a saved poster, it will be deleted
 ## Languages
 * HTML
 * CSS

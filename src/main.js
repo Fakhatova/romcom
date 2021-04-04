@@ -38,7 +38,7 @@ viewSavedCoverBtn.addEventListener('click', showSavedCoverView)
 homeBtn.addEventListener('click', showMainView)
 createCoverBtn.addEventListener('click', createNewCover)
 saveCoverBtn.addEventListener('click', saveCurrentCover)
-
+savedCoverSection.addEventListener('dblclick', deleteCover)
 ////// EVENT HANDLERS AND OTHER FUNCTIONS👇///////////
 
 function getRandomIndex(array) {

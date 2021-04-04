@@ -38,7 +38,7 @@ viewSavedCoverBtn.addEventListener('click', showSavedCoverView)
 homeBtn.addEventListener('click', showMainView)
 createCoverBtn.addEventListener('click', createNewCover)
 saveCoverBtn.addEventListener('click', saveCurrentCover)
-
+savedCoverSection.addEventListener('dblclick', deleteCover)
 ////// EVENT HANDLERS AND OTHER FUNCTIONS👇///////////
 
 function getRandomIndex(array) {
@@ -120,4 +120,14 @@ function showSavedCovers() {
     <img class="overlay" src="./assets/overlay.png">
     </section>`
   }
+}
+
+function deleteCover() {
+  var clickedMiniCover = event.target.closest(".mini-cover");
+  for (var i = 0; i < savedCovers.length; i++) {
+    if (savedCovers[i].id === Number(clickedMiniCover.id)) {
+      savedCovers.splice(i, 1);
+    }
+  }
+  showSavedCovers();
 }

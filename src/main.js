@@ -121,3 +121,13 @@ function showSavedCovers() {
     </section>`
   }
 }
+
+function deleteCover() {
+  var clickedMiniCover = event.target.closest(".mini-cover");
+  for (var i = 0; i < savedCovers.length; i++) {
+    if (savedCovers[i].id === Number(clickedMiniCover.id)) {
+      savedCovers.splice(i, 1);
+    }
+  }
+  showSavedCovers();
+}

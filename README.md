@@ -6,7 +6,7 @@ RomCom is a an application where users can generate random covers, titles, and t
 -   When the page loads, the user will see a cover with a randomly selected image, title and tagline.
    ![make own cover form](https://frontend.turing.io/projects/module-1/assets/romcom/romcom-form.png)
 -   When the  **Make Your Own Cover**  button is clicked, the form is shown and the main view is hidden.
--   When the  **View Saved Covers**  button is clicked, the saved covers area is shown and the main poster is hidden.
+-   When the  **View Saved Covers**  button is clicked, the saved covers area is shown and the main cover is hidden.
 -   When the  **Home Button** is clicked, only the home view is shown.
 -   On the make your own cover form view, users can fill out the four input fields and click the  **Make My Book** button. The submitted data is saved so that future random covers can use the user-created data.
 ![make own cover form](https://frontend.turing.io/projects/module-1/assets/romcom/romcom-home.png)
@@ -16,6 +16,7 @@ RomCom is a an application where users can generate random covers, titles, and t
 -   When the user clicks the   **Save Cover**  button the current cover is added to the saved covers section.
 -   If the user  clicks the   **Save Cover**  button more than once on a single cover, it will still only be saved once (no duplicates).
 -   When the user clicks the   **Showed Saved Covers** button the saved covers section is displayed.
+- From the saved covers view, if a user double clicks a saved poster, it will be deleted
 ## Languages
 * HTML
 * CSS

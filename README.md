@@ -1,7 +1,7 @@
 # RomCom
 
 #### Description
-RomCom is a an application where users can generate random covers, titles, and taglines to make their very own book cover! Users can also upload their own image, text and save them if they like!
+Welcome to RomCom! An application where users can generate random images, titles, and taglines to make their very own book cover! Users can also upload their own image, text and save them to create their own collection of spicy RomComs! 
 #### Visual side
 -   When the page loads, the user will see a cover with a randomly selected image, title and tagline.
    ![make own cover form](https://frontend.turing.io/projects/module-1/assets/romcom/romcom-home.png)
@@ -17,6 +17,16 @@ RomCom is a an application where users can generate random covers, titles, and t
 -   If the user  clicks the   **Save Cover**  button more than once on a single cover, it will still only be saved once (no duplicates).
 -   When the user clicks the   **Showed Saved Covers** button the saved covers section is displayed.
 - From the saved covers view, if a user double clicks a saved poster, it will be deleted
+## Future Additions
+Future additions to this application will include:
+
+- A preview of the user-created cover before adding to the collection
+- A pop up error when an incomplete cover is submitted
+- User login functionality  
+- Advanced CSS features including animation of covers
+- Mobile capability 
+
+The ability to write your own title and tagline and select from an array of cover images
 ## Languages
 * HTML
 * CSS
@@ -29,9 +39,7 @@ RomCom is a an application where users can generate random covers, titles, and t
 * Online resources- MDN docs, Stack Overflow
 ## TeamWork
 
-
-**Farangiz Akhatova & Rachael Carroll**
-
+RomCom was created by two frontend engineering students at Turing, Farangiz Akhatova & Rachael Carroll. 
 
 **GitHub Pages and site**:
 

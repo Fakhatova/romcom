@@ -6,8 +6,8 @@ Welcome to RomCom! An application where you are able to generate your own spicy,
 -   When you visit [RomCom](https://fakhatova.github.io/romcom/) you will land on the home page with a randomly selected cover image, title and tagline.
    ![make own cover form](https://frontend.turing.io/projects/module-1/assets/romcom/romcom-home.png)
 -   Perhaps you want to scroll through some covers first to get an idea of what you're looking for! Just click the **Show New Random Cover** and you may come across something you like! 
+-   But maybe you just aren't finding what tickles your fancy.  If this is the case, you can click the  **Make Your Own Cover** if you want to dive into making your own and get those creative juices flowing! 
 ![make own cover form](https://frontend.turing.io/projects/module-1/assets/romcom/romcom-form.png)
-- But, maybe you just aren't finding what tickles your fancy.  If this is the case, you can click the  **Make Your Own Cover** if you want to dive into making your own and get those creative juices flowing! 
 -   On this form page, you have the option to fill out the input fields and click the  **Make My Book** button. The submitted data is saved so that future random covers can use the user-created data.
 -   Voila! Your newly created cover image, title, and tagline are now displayed in the main view.
 ![saved cover page](https://frontend.turing.io/projects/module-1/assets/romcom/romcom-saved.png)

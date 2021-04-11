@@ -36,10 +36,10 @@ RomCom is a an application where users can generate random covers, titles, and t
 **GitHub Pages and site**:
 
 
-https://github.com/Fakhatova
+[Fara's Github](https://github.com/Fakhatova)
 
 
-https://github.com/rachaelcarroll
+[Rachael's Github](https://github.com/rachaelcarroll)
 
 
-https://fakhatova.github.io/romcom/
+[ROMCOM Site](https://fakhatova.github.io/romcom/)

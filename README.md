@@ -1,22 +1,20 @@
 # RomCom
 
 #### Description
-Welcome to RomCom! An application where users can generate random images, titles, and taglines to make their very own book cover! Users can also upload their own image, text and save them to create their own collection of spicy RomComs! 
+Welcome to RomCom! An application where you are able to generate your own spicy, seductive book covers! Choose from pre-selected covers to save, or if you're feeling creative, create your very own by using images, titles, and taglines of your choosing. 
 #### Visual side
--   When the page loads, the user will see a cover with a randomly selected image, title and tagline.
+-   When you visit [RomCom](https://fakhatova.github.io/romcom/) you will land on the home page with a randomly selected cover image, title and tagline.
    ![make own cover form](https://frontend.turing.io/projects/module-1/assets/romcom/romcom-home.png)
--   When the  **Make Your Own Cover**  button is clicked, the form is shown and the main view is hidden.
--   When the  **View Saved Covers**  button is clicked, the saved covers area is shown and the main cover is hidden.
--   When the  **Home Button** is clicked, only the home view is shown.
--   On the make your own cover form view, users can fill out the four input fields and click the  **Make My Book** button. The submitted data is saved so that future random covers can use the user-created data.
+-   Perhaps you want to scroll through some covers first to get an idea of what you're looking for! Just click the **Show New Random Cover** and you may come across something you like! 
 ![make own cover form](https://frontend.turing.io/projects/module-1/assets/romcom/romcom-form.png)
--   The page view changes back to the main home view.
--   The newly created cover image, title and tagline are displayed in the main view.
+- But, maybe you just aren't finding what tickles your fancy.  If this is the case, you can click the  **Make Your Own Cover** if you want to dive into making your own and get those creative juices flowing! 
+-   On this form page, you have the option to fill out the input fields and click the  **Make My Book** button. The submitted data is saved so that future random covers can use the user-created data.
+-   Voila! Your newly created cover image, title, and tagline are now displayed in the main view.
 ![saved cover page](https://frontend.turing.io/projects/module-1/assets/romcom/romcom-saved.png)
--   When the user clicks the   **Save Cover**  button the current cover is added to the saved covers section.
--   If the user  clicks the   **Save Cover**  button more than once on a single cover, it will still only be saved once (no duplicates).
--   When the user clicks the   **Showed Saved Covers** button the saved covers section is displayed.
-- From the saved covers view, if a user double clicks a saved poster, it will be deleted
+-   From here, you have the option of hitting that  **Save Cover**  button, and BAM! Your favorites are added to the saved covers section.
+-   Don't worry about getting click happy and saving a cover more than once, we made sure that this doesn't happen! 
+-   If you would like to view all of your beautiful saved covers, just head on over to the **Saved Covers** section. 
+-   Now if you're thinking, wow what if I don't actually love that cover anymore?? No problem! Just double click any cover and *POOF* it is out of there! 
 ## Future Additions
 Future additions to this application will include:
 

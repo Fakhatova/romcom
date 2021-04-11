@@ -28,8 +28,14 @@ RomCom is a an application where users can generate random covers, titles, and t
 * Zoom - remote collaboration
 * Online resources- MDN docs, Stack Overflow
 ## TeamWork
+
+
 **Farangiz Akhatova & Rachael Carroll**
+
+
 **GitHub Pages and site**
+
+
 https://github.com/Fakhatova
 https://github.com/rachaelcarroll
 https://fakhatova.github.io/romcom/

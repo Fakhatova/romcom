@@ -26,7 +26,6 @@ Future additions to this application will include:
 - Advanced CSS features including animation of covers
 - Mobile capability 
 
-The ability to write your own title and tagline and select from an array of cover images
 ## Languages
 * HTML
 * CSS
@@ -39,7 +38,7 @@ The ability to write your own title and tagline and select from an array of cove
 * Online resources- MDN docs, Stack Overflow
 ## TeamWork
 
-RomCom was created by two frontend engineering students at Turing, Farangiz Akhatova & Rachael Carroll. 
+The Javascript for RomCom was writted by Farangiz Akhatova & Rachael Carroll, two frontend engineering students at [Turing](https://turing.io/). HTML, CSS, and assets were provided by instructors. 
 
 **GitHub Pages and site**:
 
